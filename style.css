@@ -1,0 +1,134 @@
+#menu {
+    height: 35px;
+}
+
+#menu ul {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+#menu li {
+    display: inline;
+    margin: 0 40px;
+    font-size: 18px;
+}
+
+#menu a,
+#menu a:link,
+#menu a:visited {
+    color: white;
+    text-decoration: none;
+}
+
+#menu a:hover {
+    color: red;
+    text-decoration: u;
+}
+
+h1 {
+    font-weight: bold;
+    font-style: italic;
+    float: inline-start;
+    color: black;
+    margin: 0 auto 0 auto;
+    
+    width: 440px;
+	
+}
+
+#fejlec {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: black;
+    height: 120px;
+    width: 1000px;
+    padding: 0;
+    margin: 0 auto;
+    font-size: 40px;
+    
+}
+
+
+
+
+body {
+       
+        color: white;
+        font-family: 'Times New Roman', Times, serif;
+        background-color: rgb(255, 255, 255)
+}
+
+.cikk {
+        width: 1000px;
+        float: left;
+        text-align: justify;
+        background-color: rgba(197, 146, 137, 0.8);
+}
+
+
+.bal {
+        margin-left: 20px;
+        margin-top: 20px;
+        width: 450px;
+        float: left;
+}
+
+.jobb {
+        margin-right: 20px;
+        margin-top: 20px;
+        width: 450px;
+        float: right;
+}
+
+#lablec {
+        background-color: #333;
+        width: 1000px;
+        text-align: center;
+        margin: auto;
+        clear: both;
+        height: 60px;
+        margin-top: 40px;
+        
+}
+
+#lablec a {
+        text-align: center;
+        font-size: 16pt;
+        color: white;
+}
+#lablec a:hover{
+        color: red;
+        text-decoration: none;
+}
+
+
+#tartalom{
+        width: 1000px;
+margin: auto;
+}
+.kepek{
+      width: 200px;
+      height: 200px;
+}
+table, th, td, tr 
+      {
+          border: 1px solid black;
+          width: 1000px;
+          color: black;
+         
+          
+      }
+      .jatekosok{
+        background-color: rgba(197, 146, 137, 0.8);
+      }
+      #kepek1{
+        margin: 0 auto;
+        float: right;
+        height: 300px;
+        width: 300px;
+      }
+
+h2{
+        margin-left: 20px;
+}
+	
